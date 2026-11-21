@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "installer": "https://github.com/mustafaeminof/bee-cafe-releases/releases/download/v1.0.0/BeeCafe-Setup-1.0.0.exe",
+  "installerZip": "https://github.com/mustafaeminof/bee-cafe-releases/releases/download/v1.0.0/BeeCafe-Setup-1.0.0.zip",
+  "installerSha256": "e2fe604c6eb464da383b608edc2f58ec698b076e736474c5bb758db18ed6757d",
+  "installerSize": 34274272,
+  "zip": "https://github.com/mustafaeminof/bee-cafe-releases/releases/download/v1.0.0/BeeCafe-Windows.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-cafe-releases/releases/tag/v1.0.0",
+  "tabletApkVersion": "1.0.0",
+  "publishedAt": "2026-11-21T22:07:41Z"
+}
